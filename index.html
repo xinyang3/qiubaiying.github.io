@@ -15,11 +15,11 @@ description: "Thinking will not overcome fear but action will."
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:100 }}
+            {{ post.content | strip_html | truncate:60 }}
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date }}
     </p>
 </div>
 <hr>

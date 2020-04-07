@@ -19,9 +19,9 @@ sidebar-avatar: /img/about-person-info.jpg      # use absolute URL, seeing it's 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     xiyang
-github_username:    xiyang
-facebook_username:  xiyang.qiu.7
+zhihu_username:     xinyang
+github_username:    xinyang
+facebook_username:  xinyang
 jianshu_username:   e71990ada2fd
 #twitter_username:   xiyang
 
@@ -99,17 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
         title: "Apple",
         href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
 

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      git reset、merge、tag使用
+title:      git reset使用
 subtitle:    "\"reset、merge、tag使用\""
 date:       2020-06-10
 author:     xinyang3

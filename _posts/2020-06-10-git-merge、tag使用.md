@@ -8,8 +8,6 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - git
-    - tag
-    - merge
 ---
 
 ## reset
